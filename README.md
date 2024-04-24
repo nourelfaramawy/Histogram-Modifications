@@ -38,3 +38,5 @@ The main aim of this assignment is to experiment with histogram modification app
 - Experiment with different parameters and settings for each histogram modification technique to observe their effects.
 - Encourage collaboration and contributions from others interested in image processing and computer vision.
 - Consider exploring real-world applications and scenarios where these histogram modification techniques can be beneficial.
+
+For a more insightful look, please check out the project pdf to learn more about the specifics of each function.
